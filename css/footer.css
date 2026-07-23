@@ -66,16 +66,20 @@
 .footer-subscribe-title {
   font-weight: 500;
   font-size: 16px;
-
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
+}
+
+.footer-subscribe {
+  margin-left: auto;
 }
 
 .footer-subscribe-form {
   display: flex;
   align-items: center;
   gap: 24px;
-  margin-left: auto;
 }
 
 .footer-subscribe-input {
@@ -124,7 +128,7 @@
 
   font-weight: 500;
   font-size: 16px;
-
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
 
